@@ -1,0 +1,1014 @@
+date,cases,country
+16.6.20,43,China
+15.6.20,47,China
+14.6.20,60,China
+13.6.20,12,China
+12.6.20,7,China
+11.6.20,11,China
+10.6.20,4,China
+9.6.20,3,China
+8.6.20,5,China
+7.6.20,9,China
+6.6.20,6,China
+5.6.20,11,China
+4.6.20,1,China
+3.6.20,5,China
+2.6.20,7,China
+1.6.20,19,China
+31.5.20,5,China
+30.5.20,17,China
+29.5.20,0,China
+28.5.20,3,China
+27.5.20,1,China
+26.5.20,7,China
+25.5.20,11,China
+24.5.20,3,China
+23.5.20,2,China
+22.5.20,12,China
+21.5.20,2,China
+20.5.20,2,China
+19.5.20,9,China
+18.5.20,10,China
+17.5.20,6,China
+16.5.20,9,China
+15.5.20,5,China
+14.5.20,6,China
+13.5.20,7,China
+12.5.20,1,China
+11.5.20,19,China
+10.5.20,15,China
+9.5.20,0,China
+8.5.20,6,China
+7.5.20,2,China
+6.5.20,2,China
+5.5.20,2,China
+4.5.20,3,China
+3.5.20,2,China
+2.5.20,3,China
+1.5.20,12,China
+30.4.20,4,China
+29.4.20,2,China
+28.4.20,26,China
+27.4.20,3,China
+26.4.20,10,China
+25.4.20,15,China
+24.4.20,8,China
+23.4.20,12,China
+22.4.20,15,China
+21.4.20,32,China
+20.4.20,14,China
+19.4.20,18,China
+18.4.20,31,China
+17.4.20,352,China
+16.4.20,50,China
+15.4.20,49,China
+14.4.20,94,China
+13.4.20,112,China
+12.4.20,93,China
+11.4.20,79,China
+10.4.20,55,China
+9.4.20,86,China
+8.4.20,86,China
+7.4.20,56,China
+6.4.20,67,China
+5.4.20,48,China
+4.4.20,62,China
+3.4.20,70,China
+2.4.20,100,China
+1.4.20,54,China
+31.3.20,84,China
+30.3.20,98,China
+29.3.20,113,China
+28.3.20,119,China
+27.3.20,94,China
+26.3.20,102,China
+25.3.20,78,China
+24.3.20,69,China
+23.3.20,138,China
+22.3.20,65,China
+21.3.20,52,China
+20.3.20,99,China
+19.3.20,44,China
+18.3.20,23,China
+17.3.20,43,China
+16.3.20,25,China
+15.3.20,22,China
+14.3.20,19,China
+13.3.20,22,China
+12.3.20,24,China
+11.3.20,29,China
+10.3.20,20,China
+9.3.20,45,China
+8.3.20,46,China
+7.3.20,101,China
+6.3.20,170,China
+5.3.20,117,China
+4.3.20,119,China
+3.3.20,127,China
+2.3.20,205,China
+1.3.20,574,China
+29.2.20,428,China
+28.2.20,329,China
+27.2.20,439,China
+26.2.20,410,China
+25.2.20,515,China
+24.2.20,218,China
+23.2.20,647,China
+22.2.20,826,China
+21.2.20,891,China
+20.2.20,394,China
+19.2.20,1750,China
+18.2.20,1890,China
+17.2.20,2052,China
+16.2.20,2007,China
+15.2.20,2538,China
+14.2.20,4156,China
+13.2.20,15141,China
+12.2.20,2028,China
+11.2.20,2490,China
+10.2.20,2974,China
+9.2.20,2607,China
+8.2.20,3418,China
+7.2.20,3160,China
+6.2.20,3727,China
+5.2.20,3872,China
+4.2.20,3237,China
+3.2.20,2812,China
+2.2.20,2590,China
+1.2.20,2095,China
+31.1.20,1980,China
+30.1.20,1740,China
+29.1.20,1466,China
+28.1.20,1753,China
+27.1.20,787,China
+26.1.20,665,China
+25.1.20,441,China
+24.1.20,259,China
+23.1.20,97,China
+22.1.20,140,China
+21.1.20,151,China
+20.1.20,19,China
+19.1.20,136,China
+18.1.20,17,China
+17.1.20,4,China
+16.1.20,0,China
+15.1.20,0,China
+14.1.20,0,China
+13.1.20,0,China
+12.1.20,0,China
+11.1.20,0,China
+10.1.20,0,China
+9.1.20,0,China
+8.1.20,0,China
+7.1.20,0,China
+6.1.20,0,China
+5.1.20,15,China
+4.1.20,0,China
+3.1.20,17,China
+2.1.20,0,China
+1.1.20,0,China
+31.12.19,27,China
+16.6.20,10667,India
+15.6.20,11502,India
+14.6.20,11929,India
+13.6.20,11458,India
+12.6.20,10956,India
+11.6.20,9996,India
+10.6.20,9985,India
+9.6.20,9987,India
+8.6.20,9983,India
+7.6.20,9971,India
+6.6.20,9887,India
+5.6.20,9851,India
+4.6.20,9304,India
+3.6.20,8909,India
+2.6.20,8171,India
+1.6.20,8392,India
+31.5.20,8380,India
+30.5.20,7964,India
+29.5.20,7466,India
+28.5.20,6566,India
+27.5.20,6387,India
+26.5.20,6535,India
+25.5.20,6977,India
+24.5.20,6767,India
+23.5.20,6654,India
+22.5.20,6088,India
+21.5.20,5609,India
+20.5.20,5611,India
+19.5.20,4970,India
+18.5.20,5242,India
+17.5.20,4987,India
+16.5.20,3970,India
+15.5.20,3967,India
+14.5.20,3722,India
+13.5.20,3525,India
+12.5.20,3604,India
+11.5.20,4213,India
+10.5.20,3277,India
+9.5.20,3320,India
+8.5.20,3390,India
+7.5.20,3561,India
+6.5.20,2958,India
+5.5.20,3900,India
+4.5.20,2553,India
+3.5.20,2644,India
+2.5.20,2293,India
+1.5.20,1993,India
+30.4.20,1718,India
+29.4.20,1897,India
+28.4.20,1543,India
+27.4.20,1396,India
+26.4.20,1990,India
+25.4.20,1429,India
+24.4.20,1684,India
+23.4.20,1409,India
+22.4.20,1384,India
+21.4.20,1335,India
+20.4.20,1553,India
+19.4.20,1334,India
+18.4.20,991,India
+17.4.20,1007,India
+16.4.20,942,India
+15.4.20,1075,India
+14.4.20,1211,India
+13.4.20,796,India
+12.4.20,909,India
+11.4.20,1035,India
+10.4.20,678,India
+9.4.20,540,India
+8.4.20,773,India
+7.4.20,354,India
+6.4.20,693,India
+5.4.20,472,India
+4.4.20,601,India
+3.4.20,336,India
+2.4.20,568,India
+1.4.20,146,India
+31.3.20,180,India
+30.3.20,92,India
+29.3.20,106,India
+28.3.20,149,India
+27.3.20,75,India
+26.3.20,87,India
+25.3.20,70,India
+24.3.20,53,India
+23.3.20,119,India
+22.3.20,89,India
+21.3.20,40,India
+20.3.20,26,India
+19.3.20,28,India
+18.3.20,12,India
+17.3.20,32,India
+16.3.20,3,India
+15.3.20,7,India
+14.3.20,8,India
+13.3.20,2,India
+12.3.20,23,India
+11.3.20,6,India
+10.3.20,10,India
+8.3.20,3,India
+7.3.20,2,India
+6.3.20,1,India
+5.3.20,22,India
+4.3.20,1,India
+3.3.20,2,India
+2.3.20,0,India
+1.3.20,0,India
+29.2.20,0,India
+28.2.20,0,India
+27.2.20,0,India
+26.2.20,0,India
+25.2.20,0,India
+24.2.20,0,India
+23.2.20,0,India
+22.2.20,0,India
+21.2.20,0,India
+20.2.20,0,India
+19.2.20,0,India
+18.2.20,0,India
+17.2.20,0,India
+16.2.20,0,India
+15.2.20,0,India
+14.2.20,0,India
+13.2.20,0,India
+12.2.20,0,India
+11.2.20,0,India
+10.2.20,0,India
+9.2.20,0,India
+8.2.20,0,India
+7.2.20,0,India
+6.2.20,0,India
+5.2.20,0,India
+4.2.20,1,India
+3.2.20,0,India
+2.2.20,1,India
+1.2.20,0,India
+31.1.20,0,India
+30.1.20,1,India
+29.1.20,0,India
+28.1.20,0,India
+27.1.20,0,India
+26.1.20,0,India
+25.1.20,0,India
+24.1.20,0,India
+23.1.20,0,India
+22.1.20,0,India
+21.1.20,0,India
+20.1.20,0,India
+19.1.20,0,India
+18.1.20,0,India
+17.1.20,0,India
+16.1.20,0,India
+15.1.20,0,India
+14.1.20,0,India
+13.1.20,0,India
+12.1.20,0,India
+11.1.20,0,India
+10.1.20,0,India
+9.1.20,0,India
+8.1.20,0,India
+7.1.20,0,India
+6.1.20,0,India
+5.1.20,0,India
+4.1.20,0,India
+3.1.20,0,India
+2.1.20,0,India
+1.1.20,0,India
+31.12.19,0,India
+16.6.20,301,Italy
+15.6.20,338,Italy
+14.6.20,346,Italy
+13.6.20,163,Italy
+12.6.20,379,Italy
+11.6.20,202,Italy
+10.6.20,283,Italy
+9.6.20,280,Italy
+8.6.20,197,Italy
+7.6.20,270,Italy
+6.6.20,518,Italy
+5.6.20,177,Italy
+4.6.20,321,Italy
+3.6.20,318,Italy
+2.6.20,178,Italy
+1.6.20,355,Italy
+31.5.20,416,Italy
+30.5.20,516,Italy
+29.5.20,593,Italy
+28.5.20,584,Italy
+27.5.20,397,Italy
+26.5.20,300,Italy
+25.5.20,531,Italy
+24.5.20,669,Italy
+23.5.20,652,Italy
+22.5.20,642,Italy
+21.5.20,665,Italy
+20.5.20,813,Italy
+19.5.20,451,Italy
+18.5.20,675,Italy
+17.5.20,875,Italy
+16.5.20,789,Italy
+15.5.20,992,Italy
+14.5.20,888,Italy
+13.5.20,1402,Italy
+12.5.20,744,Italy
+11.5.20,802,Italy
+10.5.20,1083,Italy
+9.5.20,1327,Italy
+8.5.20,1401,Italy
+7.5.20,1444,Italy
+6.5.20,1075,Italy
+5.5.20,1221,Italy
+4.5.20,1389,Italy
+3.5.20,1900,Italy
+2.5.20,1965,Italy
+1.5.20,1872,Italy
+30.4.20,2086,Italy
+29.4.20,2091,Italy
+28.4.20,1739,Italy
+27.4.20,2324,Italy
+26.4.20,2357,Italy
+25.4.20,3021,Italy
+24.4.20,2646,Italy
+23.4.20,3370,Italy
+22.4.20,2729,Italy
+21.4.20,2256,Italy
+20.4.20,3047,Italy
+19.4.20,3491,Italy
+18.4.20,3493,Italy
+17.4.20,3786,Italy
+16.4.20,2667,Italy
+15.4.20,2972,Italy
+14.4.20,3153,Italy
+13.4.20,4092,Italy
+12.4.20,4694,Italy
+11.4.20,3951,Italy
+10.4.20,4204,Italy
+9.4.20,3836,Italy
+8.4.20,3039,Italy
+7.4.20,3599,Italy
+6.4.20,4316,Italy
+5.4.20,4805,Italy
+4.4.20,4585,Italy
+3.4.20,4668,Italy
+2.4.20,4782,Italy
+1.4.20,4053,Italy
+31.3.20,4050,Italy
+30.3.20,5217,Italy
+29.3.20,5974,Italy
+28.3.20,5959,Italy
+27.3.20,6153,Italy
+26.3.20,5210,Italy
+25.3.20,5249,Italy
+24.3.20,4789,Italy
+23.3.20,5560,Italy
+22.3.20,6557,Italy
+21.3.20,5986,Italy
+20.3.20,5322,Italy
+19.3.20,4207,Italy
+18.3.20,3526,Italy
+17.3.20,4000,Italy
+16.3.20,2823,Italy
+15.3.20,3497,Italy
+14.3.20,2547,Italy
+13.3.20,2651,Italy
+12.3.20,2313,Italy
+11.3.20,977,Italy
+10.3.20,1797,Italy
+9.3.20,1492,Italy
+8.3.20,1247,Italy
+7.3.20,778,Italy
+6.3.20,769,Italy
+5.3.20,587,Italy
+4.3.20,466,Italy
+3.3.20,347,Italy
+2.3.20,561,Italy
+1.3.20,240,Italy
+29.2.20,238,Italy
+28.2.20,250,Italy
+27.2.20,78,Italy
+26.2.20,93,Italy
+25.2.20,97,Italy
+24.2.20,53,Italy
+23.2.20,62,Italy
+22.2.20,14,Italy
+21.2.20,0,Italy
+20.2.20,0,Italy
+19.2.20,0,Italy
+18.2.20,0,Italy
+17.2.20,0,Italy
+16.2.20,0,Italy
+15.2.20,0,Italy
+14.2.20,0,Italy
+13.2.20,0,Italy
+12.2.20,0,Italy
+11.2.20,0,Italy
+10.2.20,0,Italy
+9.2.20,0,Italy
+8.2.20,0,Italy
+7.2.20,0,Italy
+6.2.20,0,Italy
+5.2.20,0,Italy
+4.2.20,0,Italy
+3.2.20,0,Italy
+2.2.20,0,Italy
+1.2.20,0,Italy
+31.1.20,3,Italy
+30.1.20,0,Italy
+29.1.20,0,Italy
+28.1.20,0,Italy
+27.1.20,0,Italy
+26.1.20,0,Italy
+25.1.20,0,Italy
+24.1.20,0,Italy
+23.1.20,0,Italy
+22.1.20,0,Italy
+21.1.20,0,Italy
+20.1.20,0,Italy
+19.1.20,0,Italy
+18.1.20,0,Italy
+17.1.20,0,Italy
+16.1.20,0,Italy
+15.1.20,0,Italy
+14.1.20,0,Italy
+13.1.20,0,Italy
+12.1.20,0,Italy
+11.1.20,0,Italy
+10.1.20,0,Italy
+9.1.20,0,Italy
+8.1.20,0,Italy
+7.1.20,0,Italy
+6.1.20,0,Italy
+5.1.20,0,Italy
+4.1.20,0,Italy
+3.1.20,0,Italy
+2.1.20,0,Italy
+1.1.20,0,Italy
+31.12.19,0,Italy
+16.6.20,85,Japan
+15.6.20,73,Japan
+14.6.20,47,Japan
+13.6.20,50,Japan
+12.6.20,40,Japan
+11.6.20,41,Japan
+10.6.20,41,Japan
+9.6.20,36,Japan
+8.6.20,33,Japan
+7.6.20,38,Japan
+6.6.20,39,Japan
+5.6.20,46,Japan
+4.6.20,32,Japan
+3.6.20,56,Japan
+2.6.20,46,Japan
+1.6.20,33,Japan
+31.5.20,47,Japan
+30.5.20,85,Japan
+29.5.20,68,Japan
+28.5.20,0,Japan
+27.5.20,28,Japan
+26.5.20,42,Japan
+25.5.20,31,Japan
+24.5.20,14,Japan
+23.5.20,23,Japan
+22.5.20,89,Japan
+21.5.20,39,Japan
+20.5.20,20,Japan
+19.5.20,60,Japan
+18.5.20,20,Japan
+17.5.20,48,Japan
+16.5.20,44,Japan
+15.5.20,114,Japan
+14.5.20,55,Japan
+13.5.20,150,Japan
+12.5.20,76,Japan
+11.5.20,51,Japan
+10.5.20,119,Japan
+9.5.20,81,Japan
+8.5.20,84,Japan
+7.5.20,109,Japan
+6.5.20,123,Japan
+5.5.20,174,Japan
+4.5.20,218,Japan
+3.5.20,295,Japan
+2.5.20,263,Japan
+1.5.20,193,Japan
+30.4.20,236,Japan
+29.4.20,276,Japan
+28.4.20,191,Japan
+27.4.20,203,Japan
+26.4.20,290,Japan
+25.4.20,652,Japan
+24.4.20,468,Japan
+23.4.20,276,Japan
+22.4.20,378,Japan
+21.4.20,367,Japan
+20.4.20,390,Japan
+19.4.20,566,Japan
+18.4.20,628,Japan
+17.4.20,585,Japan
+16.4.20,482,Japan
+15.4.20,455,Japan
+14.4.20,390,Japan
+13.4.20,507,Japan
+12.4.20,1401,Japan
+11.4.20,680,Japan
+10.4.20,410,Japan
+9.4.20,351,Japan
+8.4.20,89,Japan
+7.4.20,163,Japan
+6.4.20,383,Japan
+5.4.20,336,Japan
+4.4.20,318,Japan
+3.4.20,439,Japan
+2.4.20,225,Japan
+1.4.20,0,Japan
+31.3.20,87,Japan
+30.3.20,173,Japan
+29.3.20,194,Japan
+28.3.20,135,Japan
+27.3.20,96,Japan
+26.3.20,75,Japan
+25.3.20,65,Japan
+24.3.20,39,Japan
+23.3.20,43,Japan
+22.3.20,39,Japan
+21.3.20,57,Japan
+20.3.20,77,Japan
+19.3.20,44,Japan
+18.3.20,5,Japan
+17.3.20,10,Japan
+16.3.20,34,Japan
+15.3.20,43,Japan
+14.3.20,62,Japan
+13.3.20,56,Japan
+12.3.20,51,Japan
+11.3.20,54,Japan
+10.3.20,26,Japan
+9.3.20,33,Japan
+8.3.20,47,Japan
+7.3.20,59,Japan
+6.3.20,32,Japan
+5.3.20,49,Japan
+4.3.20,14,Japan
+3.3.20,0,Japan
+2.3.20,15,Japan
+1.3.20,9,Japan
+29.2.20,20,Japan
+28.2.20,24,Japan
+27.2.20,22,Japan
+26.2.20,20,Japan
+25.2.20,0,Japan
+24.2.20,12,Japan
+23.2.20,27,Japan
+22.2.20,12,Japan
+21.2.20,9,Japan
+20.2.20,18,Japan
+19.2.20,7,Japan
+18.2.20,0,Japan
+17.2.20,7,Japan
+16.2.20,14,Japan
+15.2.20,8,Japan
+14.2.20,1,Japan
+13.2.20,4,Japan
+12.2.20,0,Japan
+11.2.20,0,Japan
+10.2.20,0,Japan
+9.2.20,0,Japan
+8.2.20,0,Japan
+7.2.20,0,Japan
+6.2.20,0,Japan
+5.2.20,5,Japan
+4.2.20,0,Japan
+3.2.20,1,Japan
+2.2.20,4,Japan
+1.2.20,1,Japan
+31.1.20,3,Japan
+30.1.20,4,Japan
+29.1.20,3,Japan
+28.1.20,1,Japan
+27.1.20,0,Japan
+26.1.20,1,Japan
+25.1.20,0,Japan
+24.1.20,1,Japan
+23.1.20,0,Japan
+22.1.20,0,Japan
+21.1.20,0,Japan
+20.1.20,0,Japan
+19.1.20,0,Japan
+18.1.20,0,Japan
+17.1.20,0,Japan
+16.1.20,0,Japan
+15.1.20,1,Japan
+14.1.20,0,Japan
+13.1.20,0,Japan
+12.1.20,0,Japan
+11.1.20,0,Japan
+10.1.20,0,Japan
+9.1.20,0,Japan
+8.1.20,0,Japan
+7.1.20,0,Japan
+6.1.20,0,Japan
+5.1.20,0,Japan
+4.1.20,0,Japan
+3.1.20,0,Japan
+2.1.20,0,Japan
+1.1.20,0,Japan
+31.12.19,0,Japan
+16.6.20,8246,Russia
+15.6.20,8835,Russia
+14.6.20,8706,Russia
+13.6.20,8987,Russia
+12.6.20,8779,Russia
+11.6.20,8404,Russia
+10.6.20,8595,Russia
+9.6.20,8985,Russia
+8.6.20,8984,Russia
+7.6.20,8855,Russia
+6.6.20,8726,Russia
+5.6.20,8831,Russia
+4.6.20,8536,Russia
+3.6.20,8863,Russia
+2.6.20,9035,Russia
+1.6.20,9268,Russia
+31.5.20,8952,Russia
+30.5.20,8572,Russia
+29.5.20,8371,Russia
+28.5.20,8338,Russia
+27.5.20,8915,Russia
+26.5.20,8946,Russia
+25.5.20,8599,Russia
+24.5.20,9434,Russia
+23.5.20,8894,Russia
+22.5.20,8849,Russia
+21.5.20,8764,Russia
+20.5.20,9263,Russia
+19.5.20,8926,Russia
+18.5.20,9709,Russia
+17.5.20,9200,Russia
+16.5.20,10598,Russia
+15.5.20,9974,Russia
+14.5.20,10028,Russia
+13.5.20,10899,Russia
+12.5.20,11656,Russia
+11.5.20,11012,Russia
+10.5.20,10817,Russia
+9.5.20,10699,Russia
+8.5.20,11231,Russia
+7.5.20,10559,Russia
+6.5.20,10102,Russia
+5.5.20,10581,Russia
+4.5.20,10633,Russia
+3.5.20,9623,Russia
+2.5.20,7933,Russia
+1.5.20,7099,Russia
+30.4.20,5841,Russia
+29.4.20,6411,Russia
+28.4.20,6198,Russia
+27.4.20,6361,Russia
+26.4.20,5966,Russia
+25.4.20,5849,Russia
+24.4.20,4774,Russia
+23.4.20,5236,Russia
+22.4.20,5642,Russia
+21.4.20,4268,Russia
+20.4.20,6060,Russia
+19.4.20,4785,Russia
+18.4.20,4070,Russia
+17.4.20,3448,Russia
+16.4.20,3388,Russia
+15.4.20,2774,Russia
+14.4.20,2558,Russia
+13.4.20,2186,Russia
+12.4.20,1667,Russia
+11.4.20,1786,Russia
+10.4.20,1459,Russia
+9.4.20,1175,Russia
+8.4.20,1154,Russia
+7.4.20,954,Russia
+6.4.20,658,Russia
+5.4.20,582,Russia
+4.4.20,601,Russia
+3.4.20,771,Russia
+2.4.20,440,Russia
+1.4.20,501,Russia
+31.3.20,302,Russia
+30.3.20,270,Russia
+29.3.20,228,Russia
+28.3.20,196,Russia
+27.3.20,182,Russia
+26.3.20,163,Russia
+25.3.20,57,Russia
+24.3.20,0,Russia
+23.3.20,132,Russia
+22.3.20,53,Russia
+21.3.20,54,Russia
+20.3.20,52,Russia
+19.3.20,33,Russia
+18.3.20,21,Russia
+17.3.20,30,Russia
+16.3.20,4,Russia
+15.3.20,14,Russia
+14.3.20,15,Russia
+13.3.20,5,Russia
+12.3.20,15,Russia
+11.3.20,0,Russia
+10.3.20,0,Russia
+9.3.20,0,Russia
+8.3.20,0,Russia
+7.3.20,6,Russia
+6.3.20,0,Russia
+5.3.20,0,Russia
+4.3.20,1,Russia
+3.3.20,1,Russia
+2.3.20,0,Russia
+1.3.20,0,Russia
+29.2.20,0,Russia
+28.2.20,0,Russia
+27.2.20,0,Russia
+26.2.20,0,Russia
+25.2.20,0,Russia
+24.2.20,0,Russia
+23.2.20,0,Russia
+22.2.20,0,Russia
+21.2.20,0,Russia
+20.2.20,0,Russia
+19.2.20,0,Russia
+18.2.20,0,Russia
+17.2.20,0,Russia
+16.2.20,0,Russia
+15.2.20,0,Russia
+14.2.20,0,Russia
+13.2.20,0,Russia
+12.2.20,0,Russia
+11.2.20,0,Russia
+10.2.20,0,Russia
+9.2.20,0,Russia
+8.2.20,0,Russia
+7.2.20,0,Russia
+6.2.20,0,Russia
+5.2.20,0,Russia
+4.2.20,0,Russia
+3.2.20,0,Russia
+2.2.20,0,Russia
+1.2.20,2,Russia
+31.1.20,0,Russia
+30.1.20,0,Russia
+29.1.20,0,Russia
+28.1.20,0,Russia
+27.1.20,0,Russia
+26.1.20,0,Russia
+25.1.20,0,Russia
+24.1.20,0,Russia
+23.1.20,0,Russia
+22.1.20,0,Russia
+21.1.20,0,Russia
+20.1.20,0,Russia
+19.1.20,0,Russia
+18.1.20,0,Russia
+17.1.20,0,Russia
+16.1.20,0,Russia
+15.1.20,0,Russia
+14.1.20,0,Russia
+13.1.20,0,Russia
+12.1.20,0,Russia
+11.1.20,0,Russia
+10.1.20,0,Russia
+9.1.20,0,Russia
+8.1.20,0,Russia
+7.1.20,0,Russia
+6.1.20,0,Russia
+5.1.20,0,Russia
+4.1.20,0,Russia
+3.1.20,0,Russia
+2.1.20,0,Russia
+1.1.20,0,Russia
+31.12.19,0,Russia
+16.6.20,19957,United States of America
+15.6.20,19543,United States of America
+14.6.20,25540,United States of America
+13.6.20,25639,United States of America
+12.6.20,22883,United States of America
+11.6.20,20614,United States of America
+10.6.20,18665,United States of America
+9.6.20,18822,United States of America
+8.6.20,22302,United States of America
+7.6.20,22223,United States of America
+6.6.20,25178,United States of America
+5.6.20,21140,United States of America
+4.6.20,19699,United States of America
+3.6.20,20544,United States of America
+2.6.20,21086,United States of America
+1.6.20,19807,United States of America
+31.5.20,23297,United States of America
+30.5.20,25337,United States of America
+29.5.20,21817,United States of America
+28.5.20,18721,United States of America
+27.5.20,18910,United States of America
+26.5.20,19064,United States of America
+25.5.20,20568,United States of America
+24.5.20,21236,United States of America
+23.5.20,24147,United States of America
+22.5.20,25434,United States of America
+21.5.20,23285,United States of America
+20.5.20,19970,United States of America
+19.5.20,21841,United States of America
+18.5.20,18873,United States of America
+17.5.20,24487,United States of America
+16.5.20,25508,United States of America
+15.5.20,27143,United States of America
+14.5.20,20782,United States of America
+13.5.20,22048,United States of America
+12.5.20,18117,United States of America
+11.5.20,20258,United States of America
+10.5.20,25612,United States of America
+9.5.20,26957,United States of America
+8.5.20,28369,United States of America
+7.5.20,24128,United States of America
+6.5.20,23841,United States of America
+5.5.20,22593,United States of America
+4.5.20,24972,United States of America
+3.5.20,29288,United States of America
+2.5.20,33955,United States of America
+1.5.20,29917,United States of America
+30.4.20,27326,United States of America
+29.4.20,24132,United States of America
+28.4.20,22541,United States of America
+27.4.20,26857,United States of America
+26.4.20,48529,United States of America
+25.4.20,21352,United States of America
+24.4.20,26543,United States of America
+23.4.20,17588,United States of America
+22.4.20,37289,United States of America
+21.4.20,28065,United States of America
+20.4.20,24601,United States of America
+19.4.20,32922,United States of America
+18.4.20,30833,United States of America
+17.4.20,31667,United States of America
+16.4.20,30148,United States of America
+15.4.20,26922,United States of America
+14.4.20,25023,United States of America
+13.4.20,27620,United States of America
+12.4.20,28391,United States of America
+11.4.20,35527,United States of America
+10.4.20,33901,United States of America
+9.4.20,33323,United States of America
+8.4.20,30613,United States of America
+7.4.20,30561,United States of America
+6.4.20,25398,United States of America
+5.4.20,34272,United States of America
+4.4.20,32425,United States of America
+3.4.20,28819,United States of America
+2.4.20,27103,United States of America
+1.4.20,24998,United States of America
+31.3.20,21595,United States of America
+30.3.20,18360,United States of America
+29.3.20,19979,United States of America
+28.3.20,18695,United States of America
+27.3.20,16797,United States of America
+26.3.20,13963,United States of America
+25.3.20,8789,United States of America
+24.3.20,11236,United States of America
+23.3.20,8459,United States of America
+22.3.20,7123,United States of America
+21.3.20,5374,United States of America
+20.3.20,4835,United States of America
+19.3.20,2988,United States of America
+18.3.20,1766,United States of America
+17.3.20,887,United States of America
+16.3.20,823,United States of America
+15.3.20,777,United States of America
+14.3.20,511,United States of America
+13.3.20,351,United States of America
+12.3.20,287,United States of America
+11.3.20,271,United States of America
+10.3.20,200,United States of America
+9.3.20,121,United States of America
+8.3.20,95,United States of America
+7.3.20,105,United States of America
+6.3.20,74,United States of America
+5.3.20,34,United States of America
+4.3.20,22,United States of America
+3.3.20,14,United States of America
+2.3.20,20,United States of America
+1.3.20,3,United States of America
+29.2.20,6,United States of America
+28.2.20,1,United States of America
+27.2.20,6,United States of America
+26.2.20,0,United States of America
+25.2.20,18,United States of America
+24.2.20,0,United States of America
+23.2.20,0,United States of America
+22.2.20,19,United States of America
+21.2.20,1,United States of America
+20.2.20,0,United States of America
+19.2.20,0,United States of America
+18.2.20,0,United States of America
+17.2.20,0,United States of America
+16.2.20,0,United States of America
+15.2.20,0,United States of America
+14.2.20,1,United States of America
+13.2.20,1,United States of America
+12.2.20,0,United States of America
+11.2.20,1,United States of America
+10.2.20,0,United States of America
+9.2.20,0,United States of America
+8.2.20,0,United States of America
+7.2.20,0,United States of America
+6.2.20,1,United States of America
+5.2.20,0,United States of America
+4.2.20,0,United States of America
+3.2.20,3,United States of America
+2.2.20,1,United States of America
+1.2.20,1,United States of America
+31.1.20,1,United States of America
+30.1.20,0,United States of America
+29.1.20,0,United States of America
+28.1.20,0,United States of America
+27.1.20,3,United States of America
+26.1.20,0,United States of America
+25.1.20,1,United States of America
+24.1.20,0,United States of America
+23.1.20,0,United States of America
+22.1.20,0,United States of America
+21.1.20,1,United States of America
+20.1.20,0,United States of America
+19.1.20,0,United States of America
+18.1.20,0,United States of America
+17.1.20,0,United States of America
+16.1.20,0,United States of America
+15.1.20,0,United States of America
+14.1.20,0,United States of America
+13.1.20,0,United States of America
+12.1.20,0,United States of America
+11.1.20,0,United States of America
+10.1.20,0,United States of America
+9.1.20,0,United States of America
+8.1.20,0,United States of America
+7.1.20,0,United States of America
+6.1.20,0,United States of America
+5.1.20,0,United States of America
+4.1.20,0,United States of America
+3.1.20,0,United States of America
+2.1.20,0,United States of America
+1.1.20,0,United States of America
+31.12.19,0,United States of America
